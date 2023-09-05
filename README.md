@@ -27,15 +27,15 @@
 ##
 
 <div> 
-  <img src="https://img.shields.io/badge/-PaloAlto-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/-SIEM-000000?style=for-the-badge&logo=simpleanalytics&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/-Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank">
-  <img src="https://img.shields.io/badge/-Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/-Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/-XDR_EDR-68BC71?style=for-the-badge&logo=adguard&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/-Blackberry-000000?style=for-the-badge&logo=blackberry&logoColor=white" target="_blank">
+  <a href="https://www.paloaltonetworks.com" target="_blank"> <img src="https://img.shields.io/badge/-PaloAlto-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white" target="_blank"></a>
+  <a href="https://pt.wikipedia.org/wiki/Gerenciamento_e_Correlação_de_Eventos_de_Segurança" target="_blank"> <img src="https://img.shields.io/badge/-SIEM-000000?style=for-the-badge&logo=simpleanalytics&logoColor=white" target="_blank"></a>
+  <a href="https://aws.amazon.com/pt/" target="_blank"> <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank"></a>
+  <a href="https://www.docker.com" target="_blank"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" target="_blank"></a>
+  <a href="https://www.oracle.com/cloud/" target="_blank"> <img src="https://img.shields.io/badge/-Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" target="_blank"></a>
+  <a href="https://www.redhat.com/en/topics/linux/linux-server" target="_blank"> <img src="https://img.shields.io/badge/-Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
+  <a href="https://en.wikipedia.org/wiki/Windows_Server" target="_blank"> <img src="https://img.shields.io/badge/-Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
+  <a href="https://www.cisco.com" target="_blank"> <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" target="_blank"></a>
+  <a href="https://pt.wikipedia.org/wiki/Microsoft_Office" target="_blank"> <img src="https://img.shields.io/badge/-Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" target="_blank"></a>
+  <a href="https://www.paloaltonetworks.com/cyberpedia/edr-vs-xdr" target="_blank"> <img src="https://img.shields.io/badge/-XDR_EDR-68BC71?style=for-the-badge&logo=adguard&logoColor=white" target="_blank"></a>
+  <a href="https://www.blackberry.com/us/en" target="_blank"> <img src="https://img.shields.io/badge/-Blackberry-000000?style=for-the-badge&logo=blackberry&logoColor=white" target="_blank"></a>
 </div>
