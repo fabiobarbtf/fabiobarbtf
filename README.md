@@ -21,7 +21,6 @@
   <img align="center" alt="Fabio-PhotoShop" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Fabio-Jira" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
   <img align="center" alt="Fabio-HTML5" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="right" alt="Dogo-Gif" height="150" width="160" src="https://c.tenor.com/Bpbu2-YNL6cAAAAC/hacker-pupper-dog.gif">
 </div>
 
 ##
